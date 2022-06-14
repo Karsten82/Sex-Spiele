@@ -1,0 +1,11 @@
+{
+    "name": "Wixsen leicht gemacht !",
+    "short_name": "Wixenleicht gemacht !",
+    "theme_color": "#262626",
+    "background_color": "#262626",
+    "text_color": "#f01008",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/"
+}
